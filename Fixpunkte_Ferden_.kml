@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Fixpunkte Ferden</name>
+  <Placemark id="1">
+    <name>61955057</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61955057</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.755</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.373</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1244.709</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.754670,46.373033,1244.71</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="2">
+    <name>62040287</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>62040287</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.760</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.362</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1279.946</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>102</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.759643,46.361621,1279.95</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="3">
+    <name>619501100111</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>619501100111</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.754</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.368</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1231.343</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>201</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.754102,46.367726,1231.34</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="4">
+    <name>61950141</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61950141</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.755</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.373</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1248.014</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>102</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.754583,46.373453,1248.01</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="5">
+    <name>619502203865</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>619502203865</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.757</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.363</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1192.117</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>201</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.756749,46.363389,1192.12</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="6">
+    <name>619501200022</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>619501200022</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.757</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.364</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1192.580</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.757220,46.363640,1192.58</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="7">
+    <name>619501100004</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>619501100004</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.756</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.368</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1214.609</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.755846,46.367711,1214.61</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="8">
+    <name>61950129</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61950129</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.755</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.368</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1216.250</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>102</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.755251,46.368491,1216.25</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="9">
+    <name>619501200015</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>619501200015</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.757</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.364</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1194.812</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.757185,46.364469,1194.81</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="10">
+    <name>62045031</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>62045031</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.758</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.360</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1171.678</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.757702,46.360169,1171.68</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="11">
+    <name>62045029</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>62045029</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.757</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.361</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1176.146</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.757184,46.360816,1176.15</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="12">
+    <name>62045030</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>62045030</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.758</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.360</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1184.211</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>203</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.758036,46.360286,1184.21</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="13">
+    <name>61180247</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61180247</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.755</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.365</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1253.412</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>102</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.755057,46.364701,1253.41</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="14">
+    <name>61950140</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61950140</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.755</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.368</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1226.264</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>103</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.754714,46.368007,1226.26</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="15">
+    <name>619501000584</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>619501000584</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.747</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.375</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1624.119</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>203</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.747225,46.375451,1624.12</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="16">
+    <name>62040288</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>62040288</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.759</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.359</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1192.777</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>102</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.759431,46.358628,1192.78</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="17">
+    <name>61950145</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61950145</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.745</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.378</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1865.183</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>102</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.745253,46.378031,1865.18</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="18">
+    <name>61950139</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61950139</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.754</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.370</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1231.747</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>103</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.754096,46.369700,1231.75</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="19">
+    <name>61180249</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61180249</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.755</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.361</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1238.288</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>102</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.754850,46.360560,1238.29</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="20">
+    <name>61955222</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61955222</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.756</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.366</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1208.786</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.756309,46.366324,1208.79</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="21">
+    <name>61955234</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61955234</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.756</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.367</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1211.102</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.755913,46.367045,1211.10</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="22">
+    <name>62045032</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>62045032</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.759</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.359</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1145.288</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.758528,46.358530,1145.29</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="23">
+    <name>610702200414</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>610702200414</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.755</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.363</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1226.007</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>202</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.755136,46.363038,1226.01</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark id="24">
+    <name>61950138</name>
+    <description><![CDATA[<table border="0" cellspacing="0" cellpadding="0"><tr><td>Name:&nbsp;&nbsp;</td><td>61950138</td></tr><tr><td>East [m]:&nbsp;&nbsp;</td><td>7.750</td></tr><tr><td>North [m]:&nbsp;&nbsp;</td><td>46.373</td></tr><tr><td>Height [m]:&nbsp;&nbsp;</td><td>1455.945</td></tr><tr><td>Code/materialisation:&nbsp;&nbsp;</td><td>103</td></tr></table>]]></description>
+    <Point>
+      <coordinates>7.750438,46.373169,1455.95</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
